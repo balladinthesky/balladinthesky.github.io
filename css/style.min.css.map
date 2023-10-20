@@ -1,7 +1,11 @@
 {
 	"version": 3,
 	"file": "style.min.css",
+<<<<<<< HEAD
 	"sourceRoot": "D:/Users/Winston/Workroom/Blog/zerob",
+=======
+	"sourceRoot": "D:/Users/Winston/Workroom/Blog/zerog",
+>>>>>>> 4d4d58fb0056cf8b3c0e54927a86583c6f07aeff
 	"sources": [
 		"themes/LoveIt/assets/css/style.scss",
 		"themes/LoveIt/assets/css/_variables.scss",

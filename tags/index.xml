@@ -3,6 +3,7 @@
         <title>Tags - Tag - Zero Degree</title>
         <link>https://balladinthesky.github.io.git/tags/</link>
         <description>Tags - Tag - Zero Degree</description>
+<<<<<<< HEAD
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 15 Aug 2023 22:11:40 &#43;0800</lastBuildDate><atom:link href="https://balladinthesky.github.io.git/tags/" rel="self" type="application/rss+xml" /><item>
     <title>社会</title>
     <link>https://balladinthesky.github.io.git/tags/%E7%A4%BE%E4%BC%9A/</link>
@@ -12,6 +13,9 @@
     <description><![CDATA[]]></description>
 </item>
 <item>
+=======
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 15 Aug 2023 20:32:07 &#43;0800</lastBuildDate><atom:link href="https://balladinthesky.github.io.git/tags/" rel="self" type="application/rss+xml" /><item>
+>>>>>>> 4d4d58fb0056cf8b3c0e54927a86583c6f07aeff
     <title>精进</title>
     <link>https://balladinthesky.github.io.git/tags/%E7%B2%BE%E8%BF%9B/</link>
     <pubDate>Tue, 15 Aug 2023 20:32:07 &#43;0800</pubDate>
